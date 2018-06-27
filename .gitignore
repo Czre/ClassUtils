@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.project
+/.settings/
+/.idea
+/.vscode/
+/target
+/build/
+*.iml
+**/target
+out/
